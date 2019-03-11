@@ -1,0 +1,7 @@
+@Corriere
+@sole24ore
+@repubblica
+@LaStampa
+@fattoquotidiano
+@ilmessaggeroit
+@Avvenire_Nei
