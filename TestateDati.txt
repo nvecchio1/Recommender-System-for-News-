@@ -1,0 +1,26 @@
+@Corriere		2,1Mln		326000
+@sole24ore		1,34Mln		111000
+@repubblica		2,84Mln		581000
+@LaStampa		1,03Mln		358000
+@fattoquotidiano	1,92Mln		138000
+@ilmessaggeroit		 390000		247000
+@Avvenire_Nei		  62800		 538007
+	
+				Tiratura	Diff cart	Diff dig	tot diff
+Corriere della Sera		322 826		226 453		70 794		297 247
+la Repubblica			292 365		190 260		30 160		220 420
+Il Sole 24 ORE[2]		257 305		200 155		115 366		315 521
+Quotidiano Nazionale		309 212		218 413		3 183		221 596
+La Gazzetta dello Sport		252 250		166 998		10 659		177 657
+La Stampa			214 691		145 734		25 046		170 780
+Il Messaggero			144 337		100 569		8 477		109 046
+QN - il Resto del Carlino	133 113		98 813		1 754		100 567
+Corriere dello Sport-Stadio	197 623		89 287		1 224		90 511
+il Giornale			120 738		59 698		1 412		61 110
+Avvenire			134 916		102 007		8 848		110 855
+Tuttosport			134 884		55 550		1 191		56 741
+Libero				79 550		26 167		869		27 036
+Italia Oggi[2]			98 366		54 166		18 157		72 323
+il Fatto Quotidiano		85 441		35 105		10 662		45 767
+La Verità			66 631		21 500		595		22 095
+Il Mattino			54 526		36 717		2 896		39 613
