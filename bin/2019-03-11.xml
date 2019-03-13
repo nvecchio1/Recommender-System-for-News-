@@ -1602,14 +1602,6 @@ Se nel tempo il gender gap sta diminuendo, l’#Italia continua a rimanere indietr
 		<retweetCount>2</retweetCount>
 	</singleTweet>
 	<singleTweet>
-		<id>1105139581333078016</id>
-		<author>@repubblica</author>
-		<text>RT @RepubblicaTv: 'Il viaggio di Yao', la nuova commedia con Omar Sy - il trailer in anteprima https://t.co/CFnamlYLMT</text>
-		<createdAt>Mon Mar 11 17:13:03 CET 2019</createdAt>
-		<favoriteCount>0</favoriteCount>
-		<retweetCount>2</retweetCount>
-	</singleTweet>
-	<singleTweet>
 		<id>1105137821818400768</id>
 		<author>@repubblica</author>
 		<text>RT @RepubblicaTv: A scuola sotto le tende nella zona più pericolosa della Siria https://t.co/Uq0q03bM0L</text>
@@ -1647,7 +1639,7 @@ Se nel tempo il gender gap sta diminuendo, l’#Italia continua a rimanere indietr
 		<text>RT @eziomauro: Tav, il cda di Telt sblocca i bandi per costruire la Torino-Lione https://t.co/DrkUnN5kOP di @repubblica</text>
 		<createdAt>Mon Mar 11 16:49:05 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>8</retweetCount>
+		<retweetCount>7</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105132161701634049</id>
@@ -1759,7 +1751,7 @@ Se nel tempo il gender gap sta diminuendo, l’#Italia continua a rimanere indietr
 		<text>RT @Robinson_Rep: Trattativa Stato-mafia, la copia fantasma delle telefonate distrutte di Giorgio Napolitano https://t.co/JFlptzfWuX</text>
 		<createdAt>Mon Mar 11 16:03:34 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>6</retweetCount>
+		<retweetCount>5</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105122092771495936</id>
@@ -2248,7 +2240,7 @@ https://t.co/ErL9QF5Wr0</text>
 		<text>L'#Ucraina inserisce #AlBano nella lista nera: "Minaccia alla sicurezza nazionale"
 https://t.co/OPL9UsGnS9</text>
 		<createdAt>Mon Mar 11 13:19:36 CET 2019</createdAt>
-		<favoriteCount>29</favoriteCount>
+		<favoriteCount>28</favoriteCount>
 		<retweetCount>15</retweetCount>
 	</singleTweet>
 	<singleTweet>
@@ -3209,12 +3201,20 @@ Gli strani affari offshore tra il colosso italiano e la società africana della m
 		<retweetCount>18</retweetCount>
 	</singleTweet>
 	<singleTweet>
+		<id>1104854200716935169</id>
+		<author>@repubblica</author>
+		<text>RT @RepubblicaTv: Pd, Zingaretti: "Sbaracchiamo la sede del Nazareno, cambiamo" https://t.co/tTnoJu5AtV</text>
+		<createdAt>Sun Mar 10 22:19:03 CET 2019</createdAt>
+		<favoriteCount>0</favoriteCount>
+		<retweetCount>8</retweetCount>
+	</singleTweet>
+	<singleTweet>
 		<id>1105139322032930816</id>
 		<author>@LaStampa</author>
 		<text>RT @LaStampaTV: VIDEO | Un incendio sta bruciando i boschi di Val della Torre https://t.co/oKmZ6KcyN7 @LaStampa https://t.co/8MmD2WwPiM</text>
 		<createdAt>Mon Mar 11 17:12:01 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>2</retweetCount>
+		<retweetCount>1</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105139313031954432</id>
@@ -3332,7 +3332,7 @@ Ma allora perché il ra…</text>
 		<text>RT @AndreaBertaglio: L’onda verde dei #giovani è arrivata in Italia: aumentano le città in cui ogni #venerdì gli studenti saltano la #scuol…</text>
 		<createdAt>Mon Mar 11 15:11:55 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>10</retweetCount>
+		<retweetCount>8</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105109083793907712</id>
@@ -4927,7 +4927,7 @@ Il sondaggio che fa tremare…</text>
 		<text>RT @ilfattovideo: Mafie in Lombardia, Forte: “Non ci sono settori immuni”. Dalla Chiesa: “Nuovi interessi in sanità e turismo” https://t.co…</text>
 		<createdAt>Mon Mar 11 15:36:34 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>7</retweetCount>
+		<retweetCount>6</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105115286628380673</id>
@@ -4935,15 +4935,15 @@ Il sondaggio che fa tremare…</text>
 		<text>RT @ilfattovideo: Lavoro, Landini: “Salario minimo? Non lo stabilisce il governo, ma le parti sociali con i contratti nazionali” https://t.…</text>
 		<createdAt>Mon Mar 11 15:36:31 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>5</retweetCount>
+		<retweetCount>4</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105104364677595136</id>
 		<author>@fattoquotidiano</author>
 		<text>Tav, Landini: “Rinvio per ragioni elettorali, scelta irresponsabile. Governo sblocchi immediatamente i cantieri” https://t.co/havBddF5mi</text>
 		<createdAt>Mon Mar 11 14:53:07 CET 2019</createdAt>
-		<favoriteCount>77</favoriteCount>
-		<retweetCount>26</retweetCount>
+		<favoriteCount>75</favoriteCount>
+		<retweetCount>25</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105104358558101504</id>
@@ -4983,7 +4983,7 @@ Il sondaggio che fa tremare…</text>
 		<text>Tav, Di Pietro: “Governo M5s-Lega? Ha fatto una furbata per prendere tempo. Ridono tutti di noi e ci prendono in giro” https://t.co/6RlVLN17nC</text>
 		<createdAt>Mon Mar 11 13:05:02 CET 2019</createdAt>
 		<favoriteCount>41</favoriteCount>
-		<retweetCount>15</retweetCount>
+		<retweetCount>14</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105073647490863105</id>
@@ -5008,7 +5008,7 @@ Il sondaggio che fa tremare…</text>
 Secondo l’analisi costi-benefici arriveranno a Pescara 2 milioni di tonnellate di merci l’anno e ben 183 di navi da crociera: numeri fantasiosi con Ancona a nord e lo scalo commerciale di Ortona a sud 
 https://t.co/yQExHDsC75 dal #FattoQuotidiano #11marzo</text>
 		<createdAt>Mon Mar 11 12:01:23 CET 2019</createdAt>
-		<favoriteCount>40</favoriteCount>
+		<favoriteCount>39</favoriteCount>
 		<retweetCount>25</retweetCount>
 	</singleTweet>
 	<singleTweet>
@@ -5076,8 +5076,8 @@ Così il clima ci cambierà la vita #FattoQuotidiano #edicola #11marzo https://t.c
 		<author>@fattoquotidiano</author>
 		<text>Paragone contro Giorgetti: “Smentisce incontro con Draghi? Ha la coda di paglia”. Poi spara a zero su Grasso e Serra https://t.co/UqU1957i4X</text>
 		<createdAt>Mon Mar 11 10:10:02 CET 2019</createdAt>
-		<favoriteCount>110</favoriteCount>
-		<retweetCount>58</retweetCount>
+		<favoriteCount>109</favoriteCount>
+		<retweetCount>56</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105029137184350208</id>
@@ -5111,7 +5111,7 @@ Maradona riconosce altri tre figli. E diventa uno Stato indipendente [Continua s
 		<text>LA FRASE DEL GIORNO
 Tre giudici-donne assolvono in appello due condannati per stupro perché la vittima è “mascolina”. La Cassazione annulla. Ora si spera in tre giudici-uomini [Continua su https://t.co/4gslHj17Jt] #FattoQuotidiano #edicola #11marzo https://t.co/nUeeM0Cr0Z</text>
 		<createdAt>Mon Mar 11 09:28:31 CET 2019</createdAt>
-		<favoriteCount>65</favoriteCount>
+		<favoriteCount>64</favoriteCount>
 		<retweetCount>39</retweetCount>
 	</singleTweet>
 	<singleTweet>
@@ -5138,7 +5138,7 @@ https://t.co/JBnctCdKvE</text>
 		<text>Pd, Zingaretti: “Voglio andare via dalla sede del Nazareno. Ne serve una nuova, aperta a ragazzi e ragazze” https://t.co/9QO4gqz2TA</text>
 		<createdAt>Mon Mar 11 08:53:02 CET 2019</createdAt>
 		<favoriteCount>25</favoriteCount>
-		<retweetCount>11</retweetCount>
+		<retweetCount>10</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105013400357257216</id>
@@ -5186,7 +5186,7 @@ https://t.co/GZJ7Q5mH0a</text>
 Chi può e chi non può. “#Salvini festeggia, #DiMaio rosica. Matteo brinda a Milano e spegne 46 c…</text>
 		<createdAt>Mon Mar 11 08:30:53 CET 2019</createdAt>
 		<favoriteCount>0</favoriteCount>
-		<retweetCount>24</retweetCount>
+		<retweetCount>23</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105003847695716355</id>
@@ -5329,8 +5329,8 @@ Chi può e chi non può. “#Salvini festeggia, #DiMaio rosica. Matteo brinda a Mila
 		<author>@fattoquotidiano</author>
 		<text>L’Italia e la Francia, principali perdenti della moneta unica [LEGGI https://t.co/LhPXLacV9T] @scannavo #FattoQuotidiano #edicola #10Marzo</text>
 		<createdAt>Sun Mar 10 10:59:14 CET 2019</createdAt>
-		<favoriteCount>124</favoriteCount>
-		<retweetCount>94</retweetCount>
+		<favoriteCount>123</favoriteCount>
+		<retweetCount>93</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1104678843598675970</id>
@@ -6500,14 +6500,6 @@ Se fermano il grande buco nella montagna, c’è un’alternativa? Secondo uno degli 
 		<retweetCount>25</retweetCount>
 	</singleTweet>
 	<singleTweet>
-		<id>1105139622106071041</id>
-		<author>@ilmessaggeroit</author>
-		<text>Roma, Panucci: «Ranieri? E' un buon dottore, io non sono stato chiamato da nessuno» https://t.co/soiWKf2YFh</text>
-		<createdAt>Mon Mar 11 17:13:13 CET 2019</createdAt>
-		<favoriteCount>1</favoriteCount>
-		<retweetCount>0</retweetCount>
-	</singleTweet>
-	<singleTweet>
 		<id>1105134894143991809</id>
 		<author>@ilmessaggeroit</author>
 		<text>#diabete, cala l'età della diagnosi: 150 mila i colpiti tra 20 e 35 anni  https://t.co/ozJ8XhhpyT</text>
@@ -6593,7 +6585,7 @@ Se fermano il grande buco nella montagna, c’è un’alternativa? Secondo uno degli 
 		<text>Il premier Conte al Roxy Bar preso di mira dai Casamonica: «Qui fanno un ottimo caffé»  https://t.co/HlZ4spY4vN</text>
 		<createdAt>Mon Mar 11 15:57:51 CET 2019</createdAt>
 		<favoriteCount>6</favoriteCount>
-		<retweetCount>6</retweetCount>
+		<retweetCount>5</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105119297456742400</id>
@@ -8108,6 +8100,14 @@ Allegri sceglie il turn over https://t.co/6PePxIfTYu</text>
 		<retweetCount>0</retweetCount>
 	</singleTweet>
 	<singleTweet>
+		<id>1104064551673348097</id>
+		<author>@ilmessaggeroit</author>
+		<text>Autovelox, Cassazione: se dispositivo e pattuglia non ben visibili, la multa è contestabile https://t.co/6nD6PwWZjK</text>
+		<createdAt>Fri Mar 08 18:01:16 CET 2019</createdAt>
+		<favoriteCount>2</favoriteCount>
+		<retweetCount>1</retweetCount>
+	</singleTweet>
+	<singleTweet>
 		<id>1105128447263809536</id>
 		<author>@Avvenire_Nei</author>
 		<text>#Ancona Dopo la sentenza choc sullo stupro arrivano gli ispettori https://t.co/PqQ2mh0OSM</text>
@@ -8216,8 +8216,8 @@ Allegri sceglie il turn over https://t.co/6PePxIfTYu</text>
 		<author>@Avvenire_Nei</author>
 		<text>Angelus. Il Papa: con il diavolo non si dialoga, si risponde con la Parola di Dio https://t.co/OoIxEE4VZQ</text>
 		<createdAt>Mon Mar 11 10:07:49 CET 2019</createdAt>
-		<favoriteCount>33</favoriteCount>
-		<retweetCount>13</retweetCount>
+		<favoriteCount>32</favoriteCount>
+		<retweetCount>12</retweetCount>
 	</singleTweet>
 	<singleTweet>
 		<id>1105026027733032961</id>
@@ -9003,7 +9003,7 @@ Allegri sceglie il turn over https://t.co/6PePxIfTYu</text>
 		<author>@Avvenire_Nei</author>
 		<text>Oggi in edicola https://t.co/Uoehc8AqCe</text>
 		<createdAt>Thu Mar 07 07:05:00 CET 2019</createdAt>
-		<favoriteCount>86</favoriteCount>
+		<favoriteCount>85</favoriteCount>
 		<retweetCount>47</retweetCount>
 	</singleTweet>
 	<singleTweet>
