@@ -1,8 +1,0 @@
-@Corriere		2,1Mln		326000
-@sole24ore		1,34Mln		111000
-@repubblica		2,84Mln		581000
-@LaStampa		1,03Mln		358000
-@fattoquotidiano	1,92Mln		138000
-@ilmessaggeroit		 390000		247000
-@Avvenire_Nei		  62800		 538007
-	
